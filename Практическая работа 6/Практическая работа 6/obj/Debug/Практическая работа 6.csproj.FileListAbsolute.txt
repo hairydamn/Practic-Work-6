@@ -1,0 +1,6 @@
+C:\Users\c_class\Desktop\PracticWork6\Практическая работа 6\Практическая работа 6\bin\Debug\Практическая работа 6.exe.config
+C:\Users\c_class\Desktop\PracticWork6\Практическая работа 6\Практическая работа 6\bin\Debug\Практическая работа 6.exe
+C:\Users\c_class\Desktop\PracticWork6\Практическая работа 6\Практическая работа 6\bin\Debug\Практическая работа 6.pdb
+C:\Users\c_class\Desktop\PracticWork6\Практическая работа 6\Практическая работа 6\obj\Debug\Практическая работа 6.csprojResolveAssemblyReference.cache
+C:\Users\c_class\Desktop\PracticWork6\Практическая работа 6\Практическая работа 6\obj\Debug\Практическая работа 6.exe
+C:\Users\c_class\Desktop\PracticWork6\Практическая работа 6\Практическая работа 6\obj\Debug\Практическая работа 6.pdb
